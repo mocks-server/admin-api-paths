@@ -30,7 +30,7 @@
     "coveralls": "cat ./coverage/lcov.info | coveralls"
   },
   "devDependencies": {
-    "@babel/preset-env": "7.7.7",
+    "@babel/preset-env": "7.8.0",
     "babel-jest": "24.9.0",
     "coveralls": "3.0.7",
     "eslint": "6.8.0",
